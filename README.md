@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I enjoy creating applications that simplify everyd
 - Email: linhpham0519@gmail.com
 - LinkedIn: https://www.linkedin.com/in/linh-p/
 
-### ⚡ Fun Fact
-- I've traveled to 30 countries in my year long career break.
-
 ### FYI
 👯 I’m looking to collaborate on full stack web applications that use React, NextJs or NodeJs and Express. 
 
