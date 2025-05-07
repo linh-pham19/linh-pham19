@@ -7,13 +7,15 @@ Welcome to my GitHub profile! I enjoy creating applications that simplify everyd
 - 🚀 Working on my Food Truck Finder app. So far I have finalized a list of features for the MVP. 
 - 📖 Sharpening my knowledge of web app performance optimization via React, CSS and HTML.
 - 💬 Diving deeply into fundamental concepts of web application to figure out where bugs might come from and document my findings.
-- Learning Next.js and Python.  
+- Learning Next.js and Python.
+- Continue to update my personal website. 
 
 ### 📫 How to Reach Me
 - Email: linhpham0519@gmail.com
 - LinkedIn: https://www.linkedin.com/in/linh-p/
 
 ### ⚡ Fun Fact
+- I've traveled to 30 countries in my year long career break.
 
 ### FYI
 👯 I’m looking to collaborate on full stack web applications that use React, NextJs or NodeJs and Express. 
