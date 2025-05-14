@@ -3,11 +3,10 @@
 Welcome to my GitHub profile! I enjoy creating applications that simplify everyday tasks—like discovering your favorite food truck or getting movie recommendations tailored to your taste.
 
 ### 🌱 Current Focus
-- 🌱 Lately: I've been working on `CTD-prework` to sharpen my skills in plain JavaScript, HTML and CSS. 
-- 🚀 Working on my Food Truck Finder app. So far I have finalized a list of features for the MVP. 
+- 🌱 Lately: Working on my Food Truck Finder app. I'm currently refining user stories for the application.   
 - 📖 Sharpening my knowledge of web app performance optimization via React, CSS and HTML.
 - 💬 Diving deeply into fundamental concepts of web application to figure out where bugs might come from and document my findings.
-- Learning Next.js and Python.
+- Learning Next.js and Python (Django framework).
 - Continue to update my personal website. 
 
 ### 📫 How to Reach Me
